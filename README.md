@@ -6,6 +6,8 @@ I have put together a "bare bones" portfolio homepage.  The purpose of this port
 
 ## Usage
 
+To view the webpage, navigate to [https://orian42.github.io/jryanprofile/](https://orian42.github.io/jryanprofile/).
+
 This application can be viewed by anyone who has access to the link; however, my contact information is provided mainly for potential employers to contact me.  This information should not be used to add me to any marketing or social contact lists.
 
 <img src=./assets/images/screenshot.png alt="A screenshot of my portfolio page">
